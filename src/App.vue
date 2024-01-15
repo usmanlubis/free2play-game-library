@@ -1,5 +1,5 @@
 <template>
-  <p class="underline">Hello World</p>
+  <router-view></router-view>
 </template>
 
 <script>
